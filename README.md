@@ -64,10 +64,11 @@ You can view and run the Google Colab notebook for this project [here](https://c
 
 
 - **Actual Data (Non-Disaster Tweet):**
-  ![image](https://github.com/user-attachments/assets/82e7cc9f-7e98-4aac-801f-90c466310bc0)
+  ![image](https://github.com/user-attachments/assets/277a312c-e7db-4719-9039-268013b427ec)
+
 
 - **Prediction Result:**
-  ![image](https://github.com/user-attachments/assets/28a070bf-042b-480a-949b-54c823694f29)
+![image](https://github.com/user-attachments/assets/39e8cbe5-8f5b-4168-aef3-afcf4c003531)
 
 
 
