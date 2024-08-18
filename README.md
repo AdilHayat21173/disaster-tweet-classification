@@ -56,15 +56,16 @@ You can view and run the Google Colab notebook for this project [here](https://c
 - **Description:** Allows users to paste tweet text and get a prediction of whether it indicates a disaster.
 **Screenshots:**
   - **Actual Data (Disaster Tweet):**
- ![disaster_tweet](https://github.com/user-attachments/assets/dbaf14f0-4c96-448e-b1ce-f24d26040178)
+  ![disaster_tweet](https://github.com/user-attachments/assets/dbaf14f0-4c96-448e-b1ce-f24d26040178)
 
-  - **Prediction Result:**
-    ![predict_model](https://github.com/user-attachments/assets/aae147b4-e68a-4f4d-a8b3-55a7c3d4d4c4)
+- **Prediction Result:**
+  ![predict_model](https://github.com/user-attachments/assets/aae147b4-e68a-4f4d-a8b3-55a7c3d4d4c4)
 
-  - **Actual Data (Non-Disaster Tweet):**
-    ![image](https://github.com/user-attachments/assets/82e7cc9f-7e98-4aac-801f-90c466310bc0)
-  - **Prediction Result:**
-    ![image](https://github.com/user-attachments/assets/28a070bf-042b-480a-949b-54c823694f29)
+- **Actual Data (Non-Disaster Tweet):**
+  ![image](https://github.com/user-attachments/assets/82e7cc9f-7e98-4aac-801f-90c466310bc0)
+
+- **Prediction Result:**
+  ![image](https://github.com/user-attachments/assets/28a070bf-042b-480a-949b-54c823694f29)
 
 
 
